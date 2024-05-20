@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keniajin&repo=protgear" />
 </a>
 <a href="https://github.com/keniajin">
-  <img align="center" src="https://github.com/Keniajin/CAR_models" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keniajin&repo=CAR_models" />
 </a>
 
 </details>
